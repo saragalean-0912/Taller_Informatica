@@ -1,0 +1,10 @@
+[2026-11-17 12:46:36] Se generaron 50 registros aleatorios.
+[2026-11-17 12:47:08] Validación realizada: 50 registros, 0 con errores.
+[2026-11-17 12:48:35] Conexión exitosa con MongoDB Atlas.
+[2026-11-17 12:49:50] Se generaron 50 registros aleatorios.
+[2026-11-17 12:49:52] Validación realizada: 50 registros, 0 con errores.
+[2026-11-17 12:49:56] Conexión exitosa con MongoDB Atlas.
+[2026-11-17 12:49:58] Validación realizada: 50 registros, 0 con errores.
+[2026-11-17 12:49:58] Intento de inserción: 50 registros nuevos.
+[2026-11-17 12:50:24] Consultas de MongoDB exportadas a resultados/mongo.json.
+[2026-11-17 12:50:27] El programa se cerró.
